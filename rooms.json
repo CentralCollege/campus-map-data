@@ -1,21 +1,19 @@
 [{
 	"buildingID": "1",
-	"name": "Maytag Student Center",
+	"name": "A.N. Kuyper Athletics Complex",
+	"alternate": "Kuyper Athletics Complex",
 	"rooms": [
-    "Atrium",
-		"van Emmerik Studio",
-		"Boat Room",
-    "Fred's",
-    "Fred's Patio",
-		"Moore Room",
-		"Weller Room"
+		"Aerobics Room",
+		"H.S. Kuyper Fieldhouse",
+    "P.H. Kuyper Gymnasium",
+    "Ron Schipper Fitness Center",
+    "Wrestling Room"
 	]
 },
 {
 	"buildingID": "1",
 	"name": "Central Hall",
 	"rooms": [
-		"316",
 		"Douwstra Auditorium",
 		"Douwstra Lobby",
 		"Wormhoudt Room"
@@ -65,12 +63,10 @@
 	"name": "Graham Conference Center",
 	"rooms": [
 		"Atrium",
+		"Brunsting Fireside Lounge",
 		"Graham #1",
 		"Graham #2",
-		{"Vermeer Banquet Hall" :
-      {"alternate-name" : "Harry and Bernice Vermeer Banquet Hall",
-      "common-name" : "Vermeer Banquet Hall" }
-    }
+		"Vermeer Banquet Hall"
 	]
 },
 {
@@ -82,20 +78,23 @@
 	]
 },{
 	"buildingID": "1",
-	"name": "Kuper Athletics Complex",
-	"rooms": [
-		"Aerobics Room",
-		"H.S. Kuyper Fieldhouse",
-    "P.H. Kuyper Gymnasium",
-    "Ron Schipper Fitness Center",
-    "Wrestling Room"
-	]
-},{
-	"buildingID": "1",
-	"name": "Lubber Center",
+	"name": "Lubbers Center",
 	"rooms": [
 		"Glass Blowing Studio",
 		"Mills Gallery"
+	]
+} ,{
+	"buildingID": "1",
+	"name": "Maytag Student Center",
+	"rooms": [
+    	"Atrium",
+		"Boat Room",
+    	"Fred's",
+    	"Fred's Patio",
+		"Hinga Room",
+		"Moore Room",
+		"van Emmerik Studio",
+		"Weller Room"
 	]
 }
 ]
