@@ -15,3 +15,7 @@ The following map collections are available:
   - Latitude, Longitude
 - Parking Lots
 - Handicap parking spots
+
+## Room information
+
+An incomplete selection of notable rooms is also included. These are the official names for these spaces.
