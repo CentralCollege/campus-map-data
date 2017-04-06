@@ -5197,8 +5197,8 @@
       "type": "Feature",
       "properties": {
         "id": "51",
-        "name": "Wing International Center - Spanish II House",
-        "description": "The Spanish II House offers a unique opportunity for students to use Spanish on a daily basis — and earn .5 semester credit hours.",
+        "name": "Wing International Center",
+        "description": "The Wing International Center offers a unique opportunity for students to use foreign languages on a daily basis — and earn .5 semester credit hours.",
         "photo": "spanishhouse.jpg",
         "Lat": 41.401994,
         "Lng": -92.923153,
@@ -6143,7 +6143,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Football Practice Fields"
+        "id": "9992",
+        "name": "Football Practice Fields",
+        "description": "",
+        "photo": "",
+        "Lat": 41.404624,
+        "Lng": -92.9320137,
+        "buildingCenterLatLng": "41.404624, -92.9320137"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6202,7 +6208,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Golf Range"
+        "id": "9995",
+        "name": "Golf Range",
+        "description": "",
+        "photo": "",
+        "Lat": 41.403574,
+        "Lng": -92.934912,
+        "buildingCenterLatLng": "41.403574, -92.934912"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6425,7 +6437,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Soccer Practice Field"
+        "id": 9996,
+        "name": "Soccer Practice Field",
+        "description": "",
+        "photo": "",
+        "Lat": 41.402647,
+        "Lng": -92.930782,
+        "buildingCenterLatLng": "41.402647, -92.930782"
       },
       "geometry": {
         "type": "Polygon",
@@ -6458,7 +6476,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Intramural Softball Field"
+        "id": 9996,
+        "name": "Intramural Softball Field",
+        "description": "",
+        "photo": "",
+        "Lat": 41.405814,
+        "Lng": -92.931041,
+        "buildingCenterLatLng": "41.405814, -92.931041"
       },
       "geometry": {
         "type": "Polygon",
@@ -6539,7 +6563,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Intramural Football Field"
+        "id": 9998,
+        "name": "Intramural Football Field",
+        "description": "",
+        "photo": "",
+        "Lat": 41.404413,
+        "Lng": -92.931154,
+        "buildingCenterLatLng": "41.404413, -92.931154"
       },
       "geometry": {
         "type": "Polygon",
@@ -6572,7 +6602,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Soccer Practice Field"
+        "id": 9999,
+        "name": "Soccer Practice Field",
+        "description": "",
+        "photo": "",
+        "Lat": 41.402647,
+        "Lng": -92.930782,
+        "buildingCenterLatLng": "41.402647, -92.930782"
       },
       "geometry": {
         "type": "Polygon",
