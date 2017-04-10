@@ -289,7 +289,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "5",
+        "id": "4",
         "name": "Central College Garden",
         "description": "The Central College Garden grows fruits and vegetables and promotes environmental awareness. College employees and students assume responsibility for individual beds in the garden. The food produced has been enjoyed by classes, in Central Market, at college functions and by food pantries.",
         "photo": "collegeGarden.jpg",
@@ -328,7 +328,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "6",
+        "id": "5",
         "name": "Central Hall/Douwstra Auditorium",
         "description": "Central Hall houses the offices of the president and vice president of academic affairs, as well as the admission office, alumni and development, student employment office and the Central Service Center. Douwstra Auditorium, the largest auditorium on campus, is located in Central Hall. It provides seating for 600+ and is used for campus concerts, events and speakers.",
         "photo": "centralhall.jpg",
@@ -687,7 +687,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "7",
+        "id": "6",
         "name": "Central Market",
         "description": "The Central Market is Central's main dining facility and is one of the best cafeterias in the state of Iowa. It resembles a European marketplace and offers a wide selection of entrees daily. ",
         "photo": "centralmarket.jpg",
@@ -910,7 +910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "8",
+        "id": "7",
         "name": "The Chapel",
         "description": "Central is affiliated with the Reformed Church of America, and the Central Chapel is in the center of campus. Students who choose to be involved have many  worship options such as Campus Ministries, Catholic Campus Ministries, Intervarsity and Fellowship of Christian Athletes.",
         "photo": "chapel.jpg",
@@ -997,7 +997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "9",
+        "id": "8",
         "name": "Cox-Snow Music Center",
         "description": "Cox-Snow Music Center houses Central's excellent music department, which offers a wide variety of opportunities for students, from classical to jazz and pop. Performance groups include three choirs, four wind ensembles, orchestra, steel drum band and two jazz groups.",
         "photo": "coxsnow.jpg",
@@ -1112,7 +1112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "11",
+        "id": "9",
         "name": "DeVelder Townhouse",
         "description": "DeVelder is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "deVelder.jpg",
@@ -1199,7 +1199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "12",
+        "id": "10",
         "name": "Facilities Planning and Management",
         "description": "Facilities Management is responsible for the planning, construction, operation and maintenance of the campus and college-owned properties.",
         "photo": "facilities.jpg",
@@ -1318,7 +1318,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "13",
+        "id": "11",
         "name": "Firth Townhouse",
         "description": "Firth is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "firth.jpg",
@@ -1389,7 +1389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "15",
+        "id": "12",
         "name": "Gaass Hall",
         "description": "Gaass Hall is a co-ed residence hall and features some of the largest rooms on campus. Gaass also features community bathrooms, a lounge with couches, TV and DVD player, ping pong table, vending machines, a kitchen area, laundry facilities and 24-hour computer lab.",
         "photo": "gaass.jpg",
@@ -1468,7 +1468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "16",
+        "id": "13",
         "name": "Geisler Library",
         "description": "Geisler Library hosts nearly a quarter of a million resources including books, magazines, newspapers, music, reference periodicals, microfilm, historical information and art. The third floor holds the archives, computer room and over 30 study rooms. The Café at Geisler on the first floor of the library is an additional option for students using their meal plan.",
         "photo": "geisler.jpg",
@@ -1655,7 +1655,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "18",
+        "id": "14",
         "name": "Graham Annex",
         "description": "The Graham Annex provides additional meeting space for the Graham Conference Center. The south end of the building is home to a large board room and the remainder of the space features a mid-sized meeting/banquet area.",
         "photo": "grahamAnnex.jpg",
@@ -1738,7 +1738,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "19",
+        "id": "15",
         "name": "Graham Conference Center",
         "description": "Graham Conference Center is used for large community and campus events. The Harry and Bernice Vermeer Banquet Hall can seat 400 and is used for scholarship and music events, wedding receptions and many other types of gatherings. Separate conference rooms in the Graham Conference Center can also seat up to 75 people.",
         "photo": "grahamcenter.jpg",
@@ -1861,7 +1861,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "20",
+        "id": "16",
         "name": "Graham Hall",
         "description": "Graham Hall is an all-female residence hall. Graham features stackable furniture, sinks and vanities, air conditioning, lounge spaces and a piano. Students who live in Graham can also utilize community bathrooms, laundry facilities and a 24-hour computer lab.",
         "photo": "graham.jpg",
@@ -1984,7 +1984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "21",
+        "id": "17",
         "name": "Helen Jean Hislop Center",
         "description": "Central's state-of-the-art exercise science building, the Helen Jean Hislop Center, features four technologically-equipped classrooms as well as an up-to-date classroom completely dedicated to the athletic training education program. The building also features two conference rooms, which are completely computer integrated, a hydrostatic underwater weighing tank, which is one of only three that exists in the Midwest, and is located in the human performance lab. ",
         "photo": "ExSciBuilding.jpg",
@@ -2047,7 +2047,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "22",
+        "id": "18",
         "name": "Hoffman Hall",
         "description": "Hoffman Hall is home to career services.",
         "photo": "hoffman.jpg",
@@ -2102,7 +2102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "23",
+        "id": "19",
         "name": "Jordan Hall",
         "description": "Jordan Hall is the oldest academic building on campus, home to history and English faculty.",
         "photo": "jordan.jpg",
@@ -2173,7 +2173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "24",
+        "id": "20",
         "name": "Ketchum Townhouse",
         "description": "Ketchum is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "ketchum.jpg",
@@ -2228,7 +2228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "25",
+        "id": "21",
         "name": "Kruidenier Center",
         "description": "Kruidenier Center hosts most of Central’s theatre productions. Two black box theatres bring actors and audiences close. Several mainstage shows run each year.",
         "photo": "kruidenier.jpg",
@@ -2351,7 +2351,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "26",
+        "id": "22",
         "name": "A.N. Kuyper Athletics Complex",
         "description": "Central's A.N. Kuyper Athletics Complex is one of the region’s top collegiate facilities. It's been chosen to host more NCAA championship events in more sports than any other Iowa college.<br><a href='//athletics.central.edu/facilities/?id=5'>H.S. Kuyper Fieldhouse--indoor track/tennis</a><br><a href='//athletics.central.edu/facilities/?id=6'>Soccer game field</a><br><a href='//athletics.central.edu/facilities/?id=7'>P.H. Kuyper Gymnasium</a><br><a href='//athletics.central.edu/facilities/?id=8'>Ron Schipper Fitness Center</a><br><a href='//athletics.central.edu/facilities/?id=9'>Ryerson Golf Practice Range</a><br><a href='//athletics.central.edu/facilities/?id=10'>Baseball fields</a><br><a href='//athletics.central.edu/facilities/?id=11'>Softball fields</a><br><a href='//athletics.central.edu/facilities/?id=12'>Tennis Courts</a></p>",
         "photo": "kuyper.jpg",
@@ -2458,7 +2458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "27",
+        "id": "23",
         "name": "Leu Townhouse",
         "description": "Leu is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "leu.jpg",
@@ -2513,7 +2513,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "28",
+        "id": "24",
         "name": "Lubbers Center",
         "description": "The Lubbers Center for Visual Arts and Mills Gallery host art classes and exhibits throughout the year. Lubbers Center also houses one of the only glass blowing studios in Iowa.",
         "photo": "lubbers.jpg",
@@ -2608,7 +2608,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "29",
+        "id": "25",
         "name": "Maytag Student Center",
         "description": "Maytag Student Center is a gathering place for students. Grab a meal from Fred’s, check your mailbox, work out, view films in van Emmerik Theatre and find Central gear at the Spirit Shoppe. ",
         "photo": "maytag.jpg",
@@ -2751,7 +2751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "30",
+        "id": "26",
         "name": "McKee Hall",
         "description": "McKee Hall is the newest housing option for juniors and seniors. McKee’s 120 co-ed units, also called pods, are centered around common living areas for eight students. McKee Hall was the first building in Iowa to receive a Gold LEED (Leadership in Energy and Environmental Design) certification from the U.S. Green Building Council. ",
         "photo": "mcKee.jpg",
@@ -3042,7 +3042,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "31",
+        "id": "27",
         "name": "Mentink Townhouse",
         "description": "Mentink is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "mentink.jpg",
@@ -3141,7 +3141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "32",
+        "id": "28",
         "name": "Michaelius Townhouse",
         "description": "Michaelius is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "michaelius.jpg",
@@ -3200,7 +3200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "33",
+        "id": "29",
         "name": "Mulder Townhouse",
         "description": "Mulder is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "mulder.jpg",
@@ -3295,7 +3295,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "34",
+        "id": "30",
         "name": "Nanes Townhouse",
         "description": "Nanes is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "nanes.jpg",
@@ -3382,7 +3382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "35",
+        "id": "31",
         "name": "Peace Hall",
         "description": "Peace Hall houses pre-college programs, including Upward Bound and Educational Talent Search.  ",
         "photo": "mediaCenter.jpg",
@@ -3445,7 +3445,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "36",
+        "id": "32",
         "name": "Peale Townhouse",
         "description": "Peale is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "peale.jpg",
@@ -3540,7 +3540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "37",
+        "id": "33",
         "name": "Pietenpol Hall",
         "description": "Pietenpol Hall is a men’s residence hall with large rooms, stackable furniture and large double closets. The first floor lounge houses a pool table, foosball table and comfy furniture.",
         "photo": "pietenpol.jpg",
@@ -3651,7 +3651,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "38",
+        "id": "34",
         "name": "Pietenpol House",
         "description": "Upperclass students can live in Pietenpol House. The house includes a full kitchen, living room, dining room and laundry — and a front porch. Students who live in the house are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "pietenpolHouse.jpg",
@@ -3698,7 +3698,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "39",
+        "id": "35",
         "name": "Poling Townhouse",
         "description": "Poling is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "poling.jpg",
@@ -3773,7 +3773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "41",
+        "id": "36",
         "name": "Prins House",
         "description": "Prins is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "prins.jpg",
@@ -3824,7 +3824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "42",
+        "id": "37",
         "name": "Roe Center",
         "description": "The Roe Center is a state-of-the-art, $17-million facility that houses education, psychology and communication departments, as well as community-based learning. Central was awarded a platinum Leadership in Energy and Environmental Design (LEED) rating from the United States Green Building Council (USGBC) for the design of the Roe Center. A green roof, natural ventilating system, radiant floor heating/cooling system and daylight harvesting systems comprise just a few of the many green features of this building.",
         "photo": "edpsych.jpg",
@@ -3979,7 +3979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "43",
+        "id": "38",
         "name": "Ron and Joyce Schipper Stadium",
         "description": "Ron and Joyce Schipper Stadium is home to Dutch football, track and field— and a FieldTurf playing surface and Daktronics video display scoreboard. Central has hosted 18 NCAA Div. III football playoff games and six Iowa Conference track and field meets here.",
         "photo": "schipper2.jpg",
@@ -4250,7 +4250,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "44",
+        "id": "39",
         "name": "Ruth Mount Townhouse",
         "description": "Ruth Mount is a co-ed townhouse for upperclass and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "ruthmount.jpg",
@@ -4305,7 +4305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "46",
+        "id": "41",
         "name": "Scholte Hall",
         "description": "Scholte Hall is the largest co-ed residence hall on campus. Its two wings are designed as suite-style living spaces. Scholte also offers four lounges with television, a piano, ping pong table, pool table, couches, a fitness facility, two kitchenettes and a 24-hour computer lab.",
         "photo": "scholte.jpg",
@@ -5196,7 +5196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "51",
+        "id": "43",
         "name": "Wing International Center",
         "description": "The Wing International Center offers a unique opportunity for students to use foreign languages on a daily basis — and earn .5 semester credit hours.",
         "photo": "spanishhouse.jpg",
@@ -5291,7 +5291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "52",
+        "id": "46",
         "name": "Stauffer Townhouse",
         "description": "Stauffer is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "stauffer.jpg",
@@ -5414,7 +5414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "53",
+        "id": "47",
         "name": "Surbeck Townhouse",
         "description": "Surbeck is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "surbeck.jpg",
@@ -5481,7 +5481,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "55",
+        "id": "48",
         "name": "Vance Townhouse",
         "description": "Vance is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "vance.jpg",
@@ -5564,7 +5564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "56",
+        "id": "49",
         "name": "Vermeer Science Center",
         "description": "The Vermeer Science Center was first in Iowa — and the first science building in the nation — to be recognized as a green building by the U.S. Green Building Council. Vermeer also won a silver LEED (Leadership in Energy and Environmental Design) rating. Central’s mathematics, computer science, physics, biology and chemistry departments are located in this building. ",
         "photo": "vermeer.jpg",
@@ -5831,7 +5831,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "58",
+        "id": "50",
         "name": "Weller Center",
         "description": "The Weller Center for Business and International Studies houses Central’s anthropology, business, foreign language, sociology and international studies faculty.",
         "photo": "weller.jpg",
@@ -5942,7 +5942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "9990",
+        "id": "44",
         "name": "Soccer field",
         "description": "",
         "photo": "",
@@ -5997,7 +5997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "9991",
+        "id": "42",
         "name": "Tennis courts",
         "description": "",
         "photo": "",
@@ -6036,7 +6036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "9993",
+        "id": "45",
         "name": "Softball field",
         "description": "",
         "photo": "",
@@ -6208,8 +6208,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "9995",
-        "name": "Golf Range",
+        "id": "40",
+        "name": "Ryerson Golf Practice Range",
         "description": "",
         "photo": "",
         "Lat": 41.403574,
