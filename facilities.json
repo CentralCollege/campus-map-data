@@ -876,9 +876,10 @@
         "name": "Cross Country Course",
         "description": "",
         "photo": "",
-        "Lat": 41.403246,
-        "Lng": -92.9390497,
-        "buildingCenterLatLng": "41.403246,-92.9390497",
+        "Lat": 41.402891,
+        "Lng": -92.936591,
+        "buildingCenterLatLng": "41.402891,-92.936591"
+		},
         "geometry": {
           "type": "LineString",
           "coordinates": [
@@ -1313,7 +1314,6 @@
             ]
           ]
         }
-      }
     },
     {
       "type": "Feature",
@@ -1544,9 +1544,9 @@
         "name": "Football Practice Fields",
         "description": "",
         "photo": "",
-        "Lat": 41.404624,
-        "Lng": -92.9320137,
-        "buildingCenterLatLng": "41.404624, -92.9320137"
+        "Lat": 41.404697,
+        "Lng": -92.929959,
+        "buildingCenterLatLng": "41.404697, -92.929959"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4908,9 +4908,9 @@
         "name": "Wing International Center",
         "description": "The Wing International Center offers a unique opportunity for students to use foreign languages on a daily basis — and earn .5 semester credit hours.",
         "photo": "spanishhouse.jpg",
-        "Lat": 41.401994,
-        "Lng": -92.923153,
-        "buildingCenterLatLng": ""
+        "Lat": 41.402117,
+        "Lng": -92.923226,
+        "buildingCenterLatLng": "41.402117, -92.923226"
       },
       "geometry": {
         "type": "Polygon",
@@ -5027,7 +5027,7 @@
       "type": "Feature",
       "properties": {
         "id": "49",
-        "name": "Soccer Practice Field",
+        "name": "Soccer Practice Field 1",
         "description": "",
         "photo": "",
         "Lat": 41.402647,
@@ -5061,6 +5061,40 @@
       "type": "Feature",
       "properties": {
         "id": "50",
+        "name": "Soccer Practice Field 2",
+        "description": "",
+        "photo": "",
+        "Lat": 41.405630,
+        "Lng": -92.929803,
+        "buildingCenterLatLng": "41.405630, -92.929803"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.931187748909,
+              41.4021572592291
+            ],
+            [-92.93037235736847,
+              41.4021572592291
+            ],
+            [-92.93036699295044,
+              41.403128993812906
+            ],
+            [-92.93119847774506,
+              41.40309680408012
+            ],
+            [-92.931187748909,
+              41.4021572592291
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
         "name": "Softball field",
         "description": "",
         "photo": "",
@@ -5145,7 +5179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "51",
+        "id": "52",
         "name": "Stauffer Townhouse",
         "description": "Stauffer is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "stauffer.jpg",
@@ -5242,7 +5276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "52",
+        "id": "53",
         "name": "Surbeck Townhouse",
         "description": "Surbeck is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "surbeck.jpg",
@@ -5297,7 +5331,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "53",
+        "id": "54",
         "name": "Vance Townhouse",
         "description": "Vance is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "vance.jpg",
@@ -5364,7 +5398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "54",
+        "id": "55",
         "name": "Vermeer Science Center",
         "description": "The Vermeer Science Center was first in Iowa — and the first science building in the nation — to be recognized as a green building by the U.S. Green Building Council. Vermeer also won a silver LEED (Leadership in Energy and Environmental Design) rating. Central’s mathematics, computer science, physics, biology and chemistry departments are located in this building. ",
         "photo": "vermeer.jpg",
@@ -5569,7 +5603,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "55",
+        "id": "56",
         "name": "Weller Center",
         "description": "The Weller Center for Business and International Studies houses Central’s anthropology, business, foreign language, sociology and international studies faculty.",
         "photo": "weller.jpg",
@@ -5649,40 +5683,6 @@
             ],
             [-92.922494793,
               41.4025810123
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "49",
-        "name": "Soccer Practice Field",
-        "description": "",
-        "photo": "",
-        "Lat": 41.402647,
-        "Lng": -92.930782,
-        "buildingCenterLatLng": "41.402647, -92.930782"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-92.931187748909,
-              41.4021572592291
-            ],
-            [-92.93037235736847,
-              41.4021572592291
-            ],
-            [-92.93036699295044,
-              41.403128993812906
-            ],
-            [-92.93119847774506,
-              41.40309680408012
-            ],
-            [-92.931187748909,
-              41.4021572592291
             ]
           ]
         ]
