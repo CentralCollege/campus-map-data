@@ -1,100 +1,100 @@
 [{
-	"buildingID": "26",
-	"name": "A.N. Kuyper Athletics Complex",
-	"alternate": "Kuyper Athletics Complex",
-	"rooms": [
-		"Aerobics Room",
-		"H.S. Kuyper Fieldhouse",
-    "P.H. Kuyper Gymnasium",
-    "Ron Schipper Fitness Center",
-    "Wrestling Room"
-	]
-},
-{
-	"buildingID": "5",
-	"name": "Central Hall",
-	"rooms": [
-		"Douwstra Auditorium",
-		"Douwstra Lobby",
-		"Wormhoudt Room"
-	]
-},
-{
-	"buildingID": "6",
-	"name": "Central Market",
-	"rooms": [
-		"Entryway",
-		"President's Dining Room"
-	]
-},{
-	"buildingID": "7",
-	"name": "Chapel",
-	"rooms": [
-		"Upper Chapel",
-		"Lower Chapel"
-	]
-},
-{
-	"buildingID": "8",
-	"name": "Cox-Snow Music Center",
-	"rooms": [
-		"Recital Hall"
-	]
-},
-{
-	"buildingID": "15",
-	"name": "Geisler Library",
-	"rooms": [
-		"Reading Room",
-		"Reference Teaching Room",
-		"Cafe at Geisler"
-	]
-},
-{
-	"buildingID": "16",
-	"name": "Graham Annex",
-	"rooms": [
-		"Rankin Nakahara Board Room",
-		"Sutphen Common Room"
-	]
-},
-{
-	"buildingID": "17",
-	"name": "Graham Conference Center",
-	"rooms": [
-		"Atrium",
-		"Brunsting Fireside Lounge",
-		"Graham #1",
-		"Graham #2",
-		"Vermeer Banquet Hall"
-	]
-},
-{
-	"buildingID": "25",
-	"name": "Kruidenier Center",
-	"rooms": [
-		"Main Studio",
-		"Studio Theatre"
-	]
-},{
-	"buildingID": "28",
-	"name": "Lubbers Center",
-	"rooms": [
-		"Glass Blowing Studio",
-		"Mills Gallery"
-	]
-} ,{
-	"buildingID": "29",
-	"name": "Maytag Student Center",
-	"rooms": [
-    	"Atrium",
-		"Boat Room",
-    	"Fred's",
-    	"Fred's Patio",
-		"Hinga Room",
-		"Moore Room",
-		"van Emmerik Studio",
-		"Weller Room"
-	]
-}
+    "buildingID": "26",
+    "name": "A.N. Kuyper Athletics Complex",
+    "alternate": "Kuyper Athletics Complex",
+    "rooms": [
+      "Aerobics Room",
+      "H.S. Kuyper Fieldhouse",
+      "P.H. Kuyper Gymnasium",
+      "Ron Schipper Fitness Center",
+      "Wrestling Room"
+    ]
+  },
+  {
+    "buildingID": "5",
+    "name": "Central Hall",
+    "rooms": [
+      "Douwstra Auditorium",
+      "Douwstra Lobby",
+      "Wormhoudt Room"
+    ]
+  },
+  {
+    "buildingID": "6",
+    "name": "Central Market",
+    "rooms": [
+      "Entryway",
+      "President's Dining Room"
+    ]
+  }, {
+    "buildingID": "7",
+    "name": "Chapel",
+    "rooms": [
+      "Upper Chapel",
+      "Lower Chapel"
+    ]
+  },
+  {
+    "buildingID": "8",
+    "name": "Cox-Snow Music Center",
+    "rooms": [
+      "Recital Hall"
+    ]
+  },
+  {
+    "buildingID": "15",
+    "name": "Geisler Library",
+    "rooms": [
+      "Reading Room",
+      "Reference Teaching Room",
+      "Cafe at Geisler"
+    ]
+  },
+  {
+    "buildingID": "16",
+    "name": "Graham Annex",
+    "rooms": [
+      "Rankin Nakahara Board Room",
+      "Sutphen Common Room"
+    ]
+  },
+  {
+    "buildingID": "17",
+    "name": "Graham Conference Center",
+    "rooms": [
+      "Atrium",
+      "Brunsting Fireside Lounge",
+      "Graham #1",
+      "Graham #2",
+      "Vermeer Banquet Hall"
+    ]
+  },
+  {
+    "buildingID": "25",
+    "name": "Kruidenier Center",
+    "rooms": [
+      "Main Studio",
+      "Studio Theatre"
+    ]
+  }, {
+    "buildingID": "28",
+    "name": "Lubbers Center",
+    "rooms": [
+      "Glass Blowing Studio",
+      "Mills Gallery"
+    ]
+  }, {
+    "buildingID": "29",
+    "name": "Maytag Student Center",
+    "rooms": [
+      "Atrium",
+      "Boat Room",
+      "Fred's",
+      "Fred's Patio",
+      "Hinga Room",
+      "Moore Room",
+      "van Emmerik Studio",
+      "Weller Room"
+    ]
+  }
 ]
