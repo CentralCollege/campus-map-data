@@ -6573,9 +6573,16 @@
         "name": "Cross Country Course",
         "description": "",
         "photo": "",
+<<<<<<< HEAD
+        "Lat": 41.402891,
+        "Lng": -92.936591,
+        "buildingCenterLatLng": "41.402891,-92.936591"
+		},
+=======
         "Lat": 41.403246,
         "Lng": -92.9390497,
         "buildingCenterLatLng": "41.403246,-92.9390497",
+>>>>>>> master
         "geometry": {
           "type": "LineString",
           "coordinates": [
@@ -7010,7 +7017,10 @@
             ]
           ]
         }
+<<<<<<< HEAD
+=======
       }
+>>>>>>> master
     },
     {
       "type": "Feature",
@@ -7241,9 +7251,15 @@
         "name": "Football Practice Fields",
         "description": "",
         "photo": "",
+<<<<<<< HEAD
+        "Lat": 41.404697,
+        "Lng": -92.929959,
+        "buildingCenterLatLng": "41.404697, -92.929959"
+=======
         "Lat": 41.404624,
         "Lng": -92.9320137,
         "buildingCenterLatLng": "41.404624, -92.9320137"
+>>>>>>> master
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7306,6 +7322,7 @@
           [
             [-92.9205427945,
               41.4021198467
+<<<<<<< HEAD
             ],
             [-92.9205427336,
               41.4021248708
@@ -7316,6 +7333,18 @@
             [-92.9205813222,
               41.4020073082
             ],
+=======
+            ],
+            [-92.9205427336,
+              41.4021248708
+            ],
+            [-92.9205801287,
+              41.4021250789
+            ],
+            [-92.9205813222,
+              41.4020073082
+            ],
+>>>>>>> master
             [-92.9205453935,
               41.4020070906
             ],
@@ -7908,6 +7937,7 @@
           [
             [-92.93081203009933,
               41.40600387501493
+<<<<<<< HEAD
             ],
             [-92.93128678109497,
               41.4060078985524
@@ -8037,6 +8067,137 @@
             [-92.9247735341,
               41.4040504838
             ],
+=======
+            ],
+            [-92.93128678109497,
+              41.4060078985524
+            ],
+            [-92.93131907237694,
+              41.405953580775645
+            ],
+            [-92.93134589446709,
+              41.405885180547756
+            ],
+            [-92.93134053004906,
+              41.4058368979906
+            ],
+            [-92.931329801213,
+              41.40579364483599
+            ],
+            [-92.93130700243637,
+              41.405751397540925
+            ],
+            [-92.93127213371918,
+              41.405710156107325
+            ],
+            [-92.93121714843437,
+              41.40566690286836
+            ],
+            [-92.93116082204506,
+              41.40563873795311
+            ],
+            [-92.93109779013321,
+              41.405621637820026
+            ],
+            [-92.93105487478897,
+              41.40561258480657
+            ],
+            [-92.93097843183205,
+              41.405609567135144
+            ],
+            [-92.93090332997963,
+              41.40561761425863
+            ],
+            [-92.93086712015793,
+              41.405627673161625
+            ],
+            [-92.93080677045509,
+              41.40565080863256
+            ],
+            [-92.93081203009933,
+              41.40600387501493
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "23",
+        "name": "Jordan Hall",
+        "description": "Jordan Hall is the oldest academic building on campus, home to history and English faculty.",
+        "photo": "jordan.jpg",
+        "Lat": 41.401069,
+        "Lng": -92.918875,
+        "buildingCenterLatLng": "41.401067, -92.918752"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.9187083143,
+              41.4011734523
+            ],
+            [-92.9188728896,
+              41.4011741793
+            ],
+            [-92.918873487,
+              41.4011096207
+            ],
+            [-92.9188822247,
+              41.4011096487
+            ],
+            [-92.9188831303,
+              41.4010272524
+            ],
+            [-92.9188733753,
+              41.401027214
+            ],
+            [-92.9188741392,
+              41.4009653576
+            ],
+            [-92.9187106381,
+              41.4009644153
+            ],
+            [-92.918709863,
+              41.4010273759
+            ],
+            [-92.9186977746,
+              41.4010273152
+            ],
+            [-92.9186967767,
+              41.4011087408
+            ],
+            [-92.9187090497,
+              41.4011088023
+            ],
+            [-92.9187083143,
+              41.4011734523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "24",
+        "name": "Ketchum Townhouse",
+        "description": "Ketchum is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
+        "photo": "ketchum.jpg",
+        "Lat": 41.403936,
+        "Lng": -92.924844,
+        "buildingCenterLatLng": "41.403977, -92.924842"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.9247735341,
+              41.4040504838
+            ],
+>>>>>>> master
             [-92.9249185204,
               41.4040506911
             ],
@@ -10605,9 +10766,9 @@
         "name": "Wing International Center",
         "description": "The Wing International Center offers a unique opportunity for students to use foreign languages on a daily basis — and earn .5 semester credit hours.",
         "photo": "spanishhouse.jpg",
-        "Lat": 41.401994,
-        "Lng": -92.923153,
-        "buildingCenterLatLng": ""
+        "Lat": 41.402117,
+        "Lng": -92.923226,
+        "buildingCenterLatLng": "41.402117, -92.923226"
       },
       "geometry": {
         "type": "Polygon",
@@ -10691,6 +10852,259 @@
           [
             [-92.93010805500671,
               41.403400594048584
+<<<<<<< HEAD
+            ],
+            [-92.93011073721573,
+              41.402298091228566
+            ],
+            [-92.92914514197037,
+              41.40229708528677
+            ],
+            [-92.92914782417938,
+              41.402648158019275
+            ],
+            [-92.92887826217338,
+              41.4026431283374
+            ],
+            [-92.9288822854869,
+              41.40306260247157
+            ],
+            [-92.92914380086586,
+              41.403065620261295
+            ],
+            [-92.9291518474929,
+              41.40339455850019
+            ],
+            [-92.93010805500671,
+              41.403400594048584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "49",
+        "name": "Soccer Practice Field 1",
+        "description": "",
+        "photo": "",
+        "Lat": 41.402647,
+        "Lng": -92.930782,
+        "buildingCenterLatLng": "41.402647, -92.930782"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.93055990245193,
+              41.405289693168605
+            ],
+            [-92.92912492062896,
+              41.40528164600448
+            ],
+            [-92.92912492062896,
+              41.405961627856556
+            ],
+            [-92.93055185582489,
+              41.405963639626634
+            ],
+            [-92.93055990245193,
+              41.405289693168605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "50",
+        "name": "Soccer Practice Field 2",
+        "description": "",
+        "photo": "",
+        "Lat": 41.405630,
+        "Lng": -92.929803,
+        "buildingCenterLatLng": "41.405630, -92.929803"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.931187748909,
+              41.4021572592291
+            ],
+            [-92.93037235736847,
+              41.4021572592291
+            ],
+            [-92.93036699295044,
+              41.403128993812906
+            ],
+            [-92.93119847774506,
+              41.40309680408012
+            ],
+            [-92.931187748909,
+              41.4021572592291
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
+        "name": "Softball field",
+        "description": "",
+        "photo": "",
+        "Lat": 41.4058731099,
+        "Lng": -92.9270167043,
+        "buildingCenterLatLng": "41.40587310991184, -92.92701670434326"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.92755727423355,
+              41.4059133453562
+            ],
+            [-92.92702217353508,
+              41.40553110762873
+            ],
+            [-92.92694975389168,
+              41.40553211352045
+            ],
+            [-92.9264682973735,
+              41.405943521923135
+            ],
+            [-92.92654608143494,
+              41.40600387501493
+            ],
+            [-92.92659033788368,
+              41.406035057423736
+            ],
+            [-92.92663325322792,
+              41.40606623981758
+            ],
+            [-92.92669092072174,
+              41.40610043984523
+            ],
+            [-92.92674858821556,
+              41.406132628090106
+            ],
+            [-92.92681564344093,
+              41.40616280455518
+            ],
+            [-92.92688806308433,
+              41.406186945717174
+            ],
+            [-92.9269712115638,
+              41.40620505158277
+            ],
+            [-92.92703022016212,
+              41.40620806922654
+            ],
+            [-92.92710666311905,
+              41.40618795159872
+            ],
+            [-92.92715494288132,
+              41.40617386925554
+            ],
+            [-92.92721529258415,
+              41.4061477163244
+            ],
+            [-92.92728905333206,
+              41.40611351632162
+            ],
+            [-92.9273507441394,
+              41.40607831041764
+            ],
+            [-92.92739768279716,
+              41.4060481339133
+            ],
+            [-92.92744998587295,
+              41.40600387501493
+            ],
+            [-92.92750363005325,
+              41.40596062197149
+            ],
+            [-92.92755727423355,
+              41.4059133453562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "name": "Stauffer Townhouse",
+        "description": "Stauffer is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
+        "photo": "stauffer.jpg",
+        "Lat": 41.403308,
+        "Lng": -92.924053,
+        "buildingCenterLatLng": "41.403330, -92.923973"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.9240782313,
+              41.4034209428
+            ],
+            [-92.9241253455,
+              41.403421132
+            ],
+            [-92.9241253455,
+              41.403421132
+            ],
+            [-92.924125367,
+              41.4033412848
+            ],
+            [-92.9241254608,
+              41.403341285
+            ],
+            [-92.9239845146,
+              41.4033409853
+            ],
+            [-92.9239843296,
+              41.4032745555
+            ],
+            [-92.9239843296,
+              41.4032745555
+            ],
+            [-92.9238752265,
+              41.4032741017
+            ],
+            [-92.9238752265,
+              41.4032741017
+            ],
+            [-92.9238753071,
+              41.4033062293
+            ],
+            [-92.9238904309,
+              41.403306262
+            ],
+            [-92.9238903928,
+              41.4033503771
+            ],
+            [-92.9238831426,
+              41.4033503475
+            ],
+            [-92.9238831426,
+              41.4033503475
+            ],
+            [-92.9238831254,
+              41.40336987
+            ],
+            [-92.9238903759,
+              41.4033698995
+            ],
+            [-92.9238903703,
+              41.4033764056
+            ],
+=======
             ],
             [-92.93011073721573,
               41.402298091228566
@@ -10908,6 +11322,7 @@
             [-92.9238903703,
               41.4033764056
             ],
+>>>>>>> master
             [-92.9239353834,
               41.4033765883
             ],
@@ -10994,7 +11409,11 @@
     {
       "type": "Feature",
       "properties": {
+<<<<<<< HEAD
+        "id": "54",
+=======
         "id": "53",
+>>>>>>> master
         "name": "Vance Townhouse",
         "description": "Vance is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "vance.jpg",
@@ -11061,7 +11480,11 @@
     {
       "type": "Feature",
       "properties": {
+<<<<<<< HEAD
+        "id": "55",
+=======
         "id": "54",
+>>>>>>> master
         "name": "Vermeer Science Center",
         "description": "The Vermeer Science Center was first in Iowa — and the first science building in the nation — to be recognized as a green building by the U.S. Green Building Council. Vermeer also won a silver LEED (Leadership in Energy and Environmental Design) rating. Central’s mathematics, computer science, physics, biology and chemistry departments are located in this building. ",
         "photo": "vermeer.jpg",
@@ -11266,7 +11689,11 @@
     {
       "type": "Feature",
       "properties": {
+<<<<<<< HEAD
+        "id": "56",
+=======
         "id": "55",
+>>>>>>> master
         "name": "Weller Center",
         "description": "The Weller Center for Business and International Studies houses Central’s anthropology, business, foreign language, sociology and international studies faculty.",
         "photo": "weller.jpg",
@@ -11350,6 +11777,8 @@
           ]
         ]
       }
+<<<<<<< HEAD
+=======
     },
     {
       "type": "Feature",
@@ -11384,6 +11813,7 @@
           ]
         ]
       }
+>>>>>>> master
     }
   ]
 }
