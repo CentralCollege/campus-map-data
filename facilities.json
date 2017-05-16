@@ -1483,6 +1483,70 @@
       "type": "Feature",
       "properties": {
         "id": "12",
+        "name": "Facilities Storage",
+        "description": "Facilities Storage",
+        "photo": "facilitiesStorage.jpg",
+        "Lat": 41.4066617200,
+        "Lng": -92.9297983646,
+        "buildingCenterLatLng": "41.4050965609, -92.9256570339"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.93013229966162,
+              41.40669994328878
+            ],
+            [-92.93013498187064,
+              41.406625508598154
+            ],
+            [-92.92998209595679,
+              41.40662752034772
+            ],
+            [-92.92998477816582,
+              41.40651888578478
+            ],
+            [-92.92982384562492,
+              41.40651888578478
+            ],
+            [-92.92981982231139,
+              41.40640019225841
+            ],
+            [-92.92971789836882,
+              41.40640019225841
+            ],
+            [-92.92971923947333,
+              41.406575214840096
+            ],
+            [-92.92946442961693,
+              41.406575214840096
+            ],
+            [-92.92945638298987,
+              41.40669591979413
+            ],
+            [-92.92967230081557,
+              41.40669591979413
+            ],
+            [-92.92967364192009,
+              41.40686892983722
+            ],
+            [-92.92993381619452,
+              41.40686691809519
+            ],
+            [-92.92993381619452,
+              41.40670195503595
+            ],
+            [-92.93013229966162,
+              41.40669994328878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
         "name": "Firth Townhouse",
         "description": "Firth is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "firth.jpg",
@@ -1540,7 +1604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "13",
+        "id": "14",
         "name": "Football Practice Fields",
         "description": "",
         "photo": "",
@@ -1595,7 +1659,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "14",
+        "id": "15",
         "name": "Gaass Hall",
         "description": "Gaass Hall is a co-ed residence hall and features some of the largest rooms on campus. Gaass also features community bathrooms, a lounge with couches, TV and DVD player, ping pong table, vending machines, a kitchen area, laundry facilities and 24-hour computer lab.",
         "photo": "gaass.jpg",
@@ -1659,7 +1723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "15",
+        "id": "16",
         "name": "Geisler Library",
         "description": "Geisler Library hosts nearly a quarter of a million resources including books, magazines, newspapers, music, reference periodicals, microfilm, historical information and art. The third floor holds the archives, computer room and over 30 study rooms. The Café at Geisler on the first floor of the library is an additional option for students using their meal plan.",
         "photo": "geisler.jpg",
@@ -1804,7 +1868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "16",
+        "id": "17",
         "name": "Graham Annex",
         "description": "The Graham Annex provides additional meeting space for the Graham Conference Center. The south end of the building is home to a large board room and the remainder of the space features a mid-sized meeting/banquet area.",
         "photo": "grahamAnnex.jpg",
@@ -1871,7 +1935,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "17",
+        "id": "18",
         "name": "Graham Conference Center",
         "description": "Graham Conference Center is used for large community and campus events. The Harry and Bernice Vermeer Banquet Hall can seat 400 and is used for scholarship and music events, wedding receptions and many other types of gatherings. Separate conference rooms in the Graham Conference Center can also seat up to 75 people.",
         "photo": "grahamcenter.jpg",
@@ -1968,7 +2032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "18",
+        "id": "19",
         "name": "Graham Hall",
         "description": "Graham Hall is an all-female residence hall. Graham features stackable furniture, sinks and vanities, air conditioning, lounge spaces and a piano. Students who live in Graham can also utilize community bathrooms, laundry facilities and a 24-hour computer lab.",
         "photo": "graham.jpg",
@@ -2065,7 +2129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "19",
+        "id": "20",
         "name": "Helen Jean Hislop Center",
         "description": "Central's state-of-the-art exercise science building, the Helen Jean Hislop Center, features four technologically-equipped classrooms as well as an up-to-date classroom completely dedicated to the athletic training education program. The building also features two conference rooms, which are completely computer integrated, a hydrostatic underwater weighing tank, which is one of only three that exists in the Midwest, and is located in the human performance lab. ",
         "photo": "ExSciBuilding.jpg",
@@ -2117,7 +2181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "20",
+        "id": "21",
         "name": "Hoffman Hall",
         "description": "Hoffman Hall is home to career services.",
         "photo": "hoffman.jpg",
@@ -2163,7 +2227,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "21",
+        "id": "22",
         "name": "Intramural Football Field",
         "description": "",
         "photo": "",
@@ -2197,7 +2261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "22",
+        "id": "23",
         "name": "Intramural Softball Field",
         "description": "",
         "photo": "",
@@ -2267,7 +2331,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "23",
+        "id": "24",
         "name": "Jordan Hall",
         "description": "Jordan Hall is the oldest academic building on campus, home to history and English faculty.",
         "photo": "jordan.jpg",
@@ -2325,7 +2389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "24",
+        "id": "25",
         "name": "Ketchum Townhouse",
         "description": "Ketchum is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "ketchum.jpg",
@@ -2371,7 +2435,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "25",
+        "id": "26",
         "name": "Kruidenier Center",
         "description": "Kruidenier Center hosts most of Central’s theatre productions. Two black box theatres bring actors and audiences close. Several mainstage shows run each year.",
         "photo": "kruidenier.jpg",
@@ -2468,7 +2532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "26",
+        "id": "27",
         "name": "A.N. Kuyper Athletics Complex",
         "description": "Central's A.N. Kuyper Athletics Complex is one of the region’s top collegiate facilities. It's been chosen to host more NCAA championship events in more sports than any other Iowa college.<br><a href='//athletics.central.edu/facilities/?id=5'>H.S. Kuyper Fieldhouse--indoor track/tennis</a><br><a href='//athletics.central.edu/facilities/?id=6'>Soccer game field</a><br><a href='//athletics.central.edu/facilities/?id=7'>P.H. Kuyper Gymnasium</a><br><a href='//athletics.central.edu/facilities/?id=8'>Ron Schipper Fitness Center</a><br><a href='//athletics.central.edu/facilities/?id=9'>Ryerson Golf Practice Range</a><br><a href='//athletics.central.edu/facilities/?id=10'>Baseball fields</a><br><a href='//athletics.central.edu/facilities/?id=11'>Softball fields</a><br><a href='//athletics.central.edu/facilities/?id=12'>Tennis Courts</a></p>",
         "photo": "kuyper.jpg",
@@ -2553,7 +2617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "27",
+        "id": "28",
         "name": "Leu Townhouse",
         "description": "Leu is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "leu.jpg",
@@ -2599,7 +2663,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "28",
+        "id": "29",
         "name": "Lubbers Center",
         "description": "The Lubbers Center for Visual Arts and Mills Gallery host art classes and exhibits throughout the year. Lubbers Center also houses one of the only glass blowing studios in Iowa.",
         "photo": "lubbers.jpg",
@@ -2675,7 +2739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "29",
+        "id": "30",
         "name": "Maytag Student Center",
         "description": "Maytag Student Center is a gathering place for students. Grab a meal from Fred’s, check your mailbox, work out, view films in van Emmerik Theatre and find Central gear at the Spirit Shoppe. ",
         "photo": "maytag.jpg",
@@ -2787,7 +2851,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "30",
+        "id": "31",
         "name": "McKee Hall",
         "description": "McKee Hall is the newest housing option for juniors and seniors. McKee’s 120 co-ed units, also called pods, are centered around common living areas for eight students. McKee Hall was the first building in Iowa to receive a Gold LEED (Leadership in Energy and Environmental Design) certification from the U.S. Green Building Council. ",
         "photo": "mcKee.jpg",
@@ -3010,7 +3074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "31",
+        "id": "32",
         "name": "Mentink Townhouse",
         "description": "Mentink is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "mentink.jpg",
@@ -3089,7 +3153,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "32",
+        "id": "33",
         "name": "Michaelius Townhouse",
         "description": "Michaelius is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "michaelius.jpg",
@@ -3138,7 +3202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "33",
+        "id": "34",
         "name": "Mulder Townhouse",
         "description": "Mulder is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "mulder.jpg",
@@ -3214,7 +3278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "34",
+        "id": "35",
         "name": "Nanes Townhouse",
         "description": "Nanes is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "nanes.jpg",
@@ -3284,7 +3348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "35",
+        "id": "36",
         "name": "Peace Hall",
         "description": "Peace Hall houses pre-college programs, including Upward Bound and Educational Talent Search.  ",
         "photo": "mediaCenter.jpg",
@@ -3336,7 +3400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "36",
+        "id": "37",
         "name": "Peale Townhouse",
         "description": "Peale is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "peale.jpg",
@@ -3412,7 +3476,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "37",
+        "id": "38",
         "name": "Pietenpol Hall",
         "description": "Pietenpol Hall is a men’s residence hall with large rooms, stackable furniture and large double closets. The first floor lounge houses a pool table, foosball table and comfy furniture.",
         "photo": "pietenpol.jpg",
@@ -3500,7 +3564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "38",
+        "id": "39",
         "name": "Pietenpol House",
         "description": "Upperclass students can live in Pietenpol House. The house includes a full kitchen, living room, dining room and laundry — and a front porch. Students who live in the house are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "pietenpolHouse.jpg",
@@ -3540,7 +3604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "39",
+        "id": "40",
         "name": "Poling Townhouse",
         "description": "Poling is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "poling.jpg",
@@ -3601,7 +3665,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "40",
+        "id": "41",
         "name": "Prins House",
         "description": "Prins is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "prins.jpg",
@@ -3644,7 +3708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "41",
+        "id": "42",
         "name": "Roe Center",
         "description": "The Roe Center is a state-of-the-art, $17-million facility that houses education, psychology and communication departments, as well as community-based learning. Central was awarded a platinum Leadership in Energy and Environmental Design (LEED) rating from the United States Green Building Council (USGBC) for the design of the Roe Center. A green roof, natural ventilating system, radiant floor heating/cooling system and daylight harvesting systems comprise just a few of the many green features of this building.",
         "photo": "edpsych.jpg",
@@ -3765,7 +3829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "42",
+        "id": "43",
         "name": "Ron and Joyce Schipper Stadium",
         "description": "Ron and Joyce Schipper Stadium is home to Dutch football, track and field— and a FieldTurf playing surface and Daktronics video display scoreboard. Central has hosted 18 NCAA Div. III football playoff games and six Iowa Conference track and field meets here.",
         "photo": "schipper2.jpg",
@@ -3973,7 +4037,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "43",
+        "id": "44",
         "name": "Ruth Mount Townhouse",
         "description": "Ruth Mount is a co-ed townhouse for upperclass and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "ruthmount.jpg",
@@ -4019,7 +4083,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "44",
+        "id": "45",
         "name": "Ryerson Golf Practice Range",
         "description": "",
         "photo": "",
@@ -4197,7 +4261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "45",
+        "id": "46",
         "name": "Scholte Hall",
         "description": "Scholte Hall is the largest co-ed residence hall on campus. Its two wings are designed as suite-style living spaces. Scholte also offers four lounges with television, a piano, ping pong table, pool table, couches, a fitness facility, two kitchenettes and a 24-hour computer lab.",
         "photo": "scholte.jpg",
@@ -4870,117 +4934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "46",
-        "name": "Tennis courts",
-        "description": "",
-        "photo": "",
-        "Lat": 41.4034247362,
-        "Lng": -92.9277047957,
-        "buildingCenterLatLng": "41.40342473623683, -92.927704795729369"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-92.92799045098945,
-              41.403744619384156
-            ],
-            [-92.92799447430298,
-              41.403109881160994
-            ],
-            [-92.92742986930534,
-              41.40310585744409
-            ],
-            [-92.92742852820083,
-              41.40374361346476
-            ],
-            [-92.92799045098945,
-              41.403744619384156
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "47",
-        "name": "Wing International Center",
-        "description": "The Wing International Center offers a unique opportunity for students to use foreign languages on a daily basis — and earn .5 semester credit hours.",
-        "photo": "spanishhouse.jpg",
-        "Lat": 41.402117,
-        "Lng": -92.923226,
-        "buildingCenterLatLng": "41.402117, -92.923226"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-92.92332619428635,
-              41.40211299768049
-            ],
-            [-92.92332082986832,
-              41.40200234367715
-            ],
-            [-92.92325109243393,
-              41.401998319891675
-            ],
-            [-92.92324841022491,
-              41.4019158322342
-            ],
-            [-92.92309552431107,
-              41.40191985602479
-            ],
-            [-92.92309858751803,
-              41.40201000049248
-            ],
-            [-92.92314562371803,
-              41.40201024709246
-            ],
-            [-92.92314561831803,
-              41.40200203669271
-            ],
-            [-92.9231920838356,
-              41.40200234367715
-            ],
-            [-92.92319476604462,
-              41.40211098579121
-            ],
-            [-92.92315989732742,
-              41.40211098579121
-            ],
-            [-92.92316794395445,
-              41.40223371092381
-            ],
-            [-92.92320281267166,
-              41.40223371092381
-            ],
-            [-92.92320549488068,
-              41.40232826947447
-            ],
-            [-92.92332082986832,
-              41.40232625759183
-            ],
-            [-92.92331546545029,
-              41.40221158017931
-            ],
-            [-92.92328596115112,
-              41.40221158017931
-            ],
-            [-92.9232805967331,
-              41.40211299768049
-            ],
-            [-92.92332619428635,
-              41.40211299768049
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "48",
         "name": "Soccer field",
         "description": "",
         "photo": "",
@@ -5026,7 +4980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "49",
+        "id": "48",
         "name": "Soccer Practice Field 1",
         "description": "",
         "photo": "",
@@ -5060,7 +5014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "50",
+        "id": "49",
         "name": "Soccer Practice Field 2",
         "description": "",
         "photo": "",
@@ -5094,7 +5048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "51",
+        "id": "50",
         "name": "Softball field",
         "description": "",
         "photo": "",
@@ -5179,7 +5133,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "52",
+        "id": "51",
         "name": "Stauffer Townhouse",
         "description": "Stauffer is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "stauffer.jpg",
@@ -5276,7 +5230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "53",
+        "id": "52",
         "name": "Surbeck Townhouse",
         "description": "Surbeck is a co-ed townhouse for upperclass students and offers an alternative to residence hall life. Each townhouse has common areas and a common kitchenette, though students are still on the meal plan and enjoy the same amenities as students who live in the residence halls.",
         "photo": "surbeck.jpg",
@@ -5323,6 +5277,40 @@
             ],
             [-92.9242401048,
               41.4036788361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "name": "Tennis courts",
+        "description": "",
+        "photo": "",
+        "Lat": 41.4034247362,
+        "Lng": -92.9277047957,
+        "buildingCenterLatLng": "41.40342473623683, -92.927704795729369"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.92799045098945,
+              41.403744619384156
+            ],
+            [-92.92799447430298,
+              41.403109881160994
+            ],
+            [-92.92742986930534,
+              41.40310585744409
+            ],
+            [-92.92742852820083,
+              41.40374361346476
+            ],
+            [-92.92799045098945,
+              41.403744619384156
             ]
           ]
         ]
@@ -5604,6 +5592,40 @@
       "type": "Feature",
       "properties": {
         "id": "56",
+        "name": "Warehouse",
+        "description": "Warehouse",
+        "photo": "",
+        "Lat": 41.4050965609,
+        "Lng": -92.9256570339,
+        "buildingCenterLatLng": "41.4050965609, -92.9256570339"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.92601108551025,
+              41.40507040758993
+            ],
+            [-92.9256623983383,
+              41.40507040758993
+            ],
+            [-92.9256623983383,
+              41.40531383465499
+            ],
+            [-92.92601108551025,
+              41.40531383465499
+            ],
+            [-92.92601108551025,
+              41.40507040758993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "57",
         "name": "Weller Center",
         "description": "The Weller Center for Business and International Studies houses Central’s anthropology, business, foreign language, sociology and international studies faculty.",
         "photo": "weller.jpg",
@@ -5687,6 +5709,82 @@
           ]
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "58",
+        "name": "Wing International Center",
+        "description": "The Wing International Center offers a unique opportunity for students to use foreign languages on a daily basis — and earn .5 semester credit hours.",
+        "photo": "spanishhouse.jpg",
+        "Lat": 41.402117,
+        "Lng": -92.923226,
+        "buildingCenterLatLng": "41.402117, -92.923226"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-92.92332619428635,
+              41.40211299768049
+            ],
+            [-92.92332082986832,
+              41.40200234367715
+            ],
+            [-92.92325109243393,
+              41.401998319891675
+            ],
+            [-92.92324841022491,
+              41.4019158322342
+            ],
+            [-92.92309552431107,
+              41.40191985602479
+            ],
+            [-92.92309858751803,
+              41.40201000049248
+            ],
+            [-92.92314562371803,
+              41.40201024709246
+            ],
+            [-92.92314561831803,
+              41.40200203669271
+            ],
+            [-92.9231920838356,
+              41.40200234367715
+            ],
+            [-92.92319476604462,
+              41.40211098579121
+            ],
+            [-92.92315989732742,
+              41.40211098579121
+            ],
+            [-92.92316794395445,
+              41.40223371092381
+            ],
+            [-92.92320281267166,
+              41.40223371092381
+            ],
+            [-92.92320549488068,
+              41.40232826947447
+            ],
+            [-92.92332082986832,
+              41.40232625759183
+            ],
+            [-92.92331546545029,
+              41.40221158017931
+            ],
+            [-92.92328596115112,
+              41.40221158017931
+            ],
+            [-92.9232805967331,
+              41.40211299768049
+            ],
+            [-92.92332619428635,
+              41.40211299768049
+            ]
+          ]
+        ]
+      }
+    },
   ]
 }
