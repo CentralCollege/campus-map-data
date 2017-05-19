@@ -1488,7 +1488,7 @@
         "photo": "",
         "Lat": 41.4066617200,
         "Lng": -92.9297983646,
-        "buildingCenterLatLng": "41.4050965609, -92.9256570339"
+        "buildingCenterLatLng": "41.406642, -92.929820"
       },
       "geometry": {
         "type": "Polygon",
