@@ -49,9 +49,9 @@
     "buildingID": "15",
     "name": "Geisler Library",
     "rooms": [
+      "Cafe at Geisler",
       "Lammers Archives",
-      "Reference Teaching Room",
-      "Cafe at Geisler"
+      "Reference Teaching Room"
     ]
   },
   {
