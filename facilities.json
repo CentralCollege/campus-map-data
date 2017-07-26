@@ -1724,8 +1724,8 @@
       "type": "Feature",
       "properties": {
         "id": "16",
-        "name": "Geisler Library",
-        "description": "Geisler Library hosts nearly a quarter of a million resources including books, magazines, newspapers, music, reference periodicals, microfilm, historical information and art. The third floor holds the archives, computer room and over 30 study rooms. The Café at Geisler on the first floor of the library is an additional option for students using their meal plan.",
+        "name": "Geisler",
+        "description": "Geisler hosts nearly a quarter of a million resources including books, magazines, newspapers, music, reference periodicals, microfilm, historical information and art. The third floor holds the archives, computer room and over 30 study rooms. The Café at Geisler on the first floor of the library is an additional option for students using their meal plan.",
         "photo": "geisler.jpg",
         "Lat": 41.401481,
         "Lng": -92.922019,
