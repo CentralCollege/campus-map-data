@@ -261,81 +261,11 @@
           ]
         ]
       }
-    },{
-		  "type": "Feature",
-		  "properties": {
-			"id": "5",
-			"name": "Catholic Church",
-			"description": "",
-			"photo": "",
-			"Lat": 41.401255,
-			"Lng": -92.925632,
-			"buildingCenterLatLng": "41.401255, -92.925632"
-		  },
-		  "geometry": {
-			"type": "Polygon",
-			"coordinates": [
-			  [
-				[
-				  -92.92572140693663,
-				  41.40133036804683
-				],
-				[
-				  -92.92572408914566,
-				  41.40130622508052
-				],
-				[
-				  -92.92578846216202,
-				  41.401312260822934
-				],
-				[
-				  -92.925785779953,
-				  41.401270010614205
-				],
-				[
-				  -92.92572677135468,
-				  41.40127604635997
-				],
-				[
-				  -92.92573481798172,
-				  41.40113118830641
-				],
-				[
-				  -92.92554974555969,
-				  41.40113118830641
-				],
-				[
-				  -92.92555242776871,
-				  41.40126598678336
-				],
-				[
-				  -92.92550414800644,
-				  41.40126799869882
-				],
-				[
-				  -92.92550951242447,
-				  41.40131024890884
-				],
-				[
-				  -92.92554706335068,
-				  41.40130823699471
-				],
-				[
-				  -92.92554706335068,
-				  41.401334391873675
-				],
-				[
-				  -92.92572140693663,
-				  41.40133036804683
-				]
-			  ]
-			]
-		  }
-		},
+    },
     {
       "type": "Feature",
       "properties": {
-        "id": "6",
+        "id": "5",
         "name": "Central Hall/Douwstra Auditorium",
         "description": "Central Hall houses the offices of the president and vice president of academic affairs, as well as the admission office, alumni and development, student employment office and the Central Service Center. Douwstra Auditorium, the largest auditorium on campus, is located in Central Hall. It provides seating for 600+ and is used for campus concerts, events and speakers.",
         "photo": "centralhall.jpg",
@@ -609,7 +539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "7",
+        "id": "6",
         "name": "Central Market",
         "description": "The Central Market is Central's main dining facility and is one of the best cafeterias in the state of Iowa. It resembles a European marketplace and offers a wide selection of entrees daily. ",
         "photo": "centralmarket.jpg",
@@ -781,7 +711,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "8",
+        "id": "7",
         "name": "The Chapel",
         "description": "Central is affiliated with the Reformed Church of America, and the Central Chapel is in the center of campus. Students who choose to be involved have many  worship options such as Campus Ministries, Catholic Campus Ministries, Intervarsity and Fellowship of Christian Athletes.",
         "photo": "chapel.jpg",
@@ -847,7 +777,77 @@
           ]
         ]
       }
-    },
+    },{
+		  "type": "Feature",
+		  "properties": {
+			"id": "8",
+			"name": "College Hall",
+			"description": "",
+			"photo": "",
+			"Lat": 41.401255,
+			"Lng": -92.925632,
+			"buildingCenterLatLng": "41.401255, -92.925632"
+		  },
+		  "geometry": {
+			"type": "Polygon",
+			"coordinates": [
+			  [
+				[
+				  -92.92572140693663,
+				  41.40133036804683
+				],
+				[
+				  -92.92572408914566,
+				  41.40130622508052
+				],
+				[
+				  -92.92578846216202,
+				  41.401312260822934
+				],
+				[
+				  -92.925785779953,
+				  41.401270010614205
+				],
+				[
+				  -92.92572677135468,
+				  41.40127604635997
+				],
+				[
+				  -92.92573481798172,
+				  41.40113118830641
+				],
+				[
+				  -92.92554974555969,
+				  41.40113118830641
+				],
+				[
+				  -92.92555242776871,
+				  41.40126598678336
+				],
+				[
+				  -92.92550414800644,
+				  41.40126799869882
+				],
+				[
+				  -92.92550951242447,
+				  41.40131024890884
+				],
+				[
+				  -92.92554706335068,
+				  41.40130823699471
+				],
+				[
+				  -92.92554706335068,
+				  41.401334391873675
+				],
+				[
+				  -92.92572140693663,
+				  41.40133036804683
+				]
+			  ]
+			]
+		  }
+		},
     {
       "type": "Feature",
       "properties": {
