@@ -1462,88 +1462,40 @@
         "name": "Facilities Management",
         "description": "Facilities Management is responsible for the planning, construction, operation and maintenance of the campus and college-owned properties.",
         "photo": "facilities.jpg",
-        "Lat": 41.401589,
-        "Lng": -92.917359,
-        "buildingCenterLatLng": "41.401739, -92.916932"
+				"Lat": 41.4050965609,
+        "Lng": -92.9256570339,
+        "buildingCenterLatLng": "41.4050965609, -92.9256570339"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [-92.91688792873174,
-              41.40225785354557
+            [-92.92565703392029,
+              41.40531383465499
             ],
-            [-92.91687854100019,
-              41.4018454158584
+            [-92.92593866586685,
+              41.405144844061994
             ],
-            [-92.91704886127263,
-              41.401842398012015
+            [-92.92588233947752,
+              41.40509052556376
             ],
-            [-92.91704752016813,
-              41.40179109460209
+            [-92.92595207691193,
+              41.40505230140816
             ],
-            [-92.91719370055944,
-              41.40179210055172
+            [-92.92575359344482,
+              41.404855144880074
             ],
-            [-92.91719235945493,
-              41.40173375544894
+            [-92.92556315660477,
+              41.40496780582652
             ],
-            [-92.91750751901418,
-              41.401731743547906
+            [-92.9255872964859,
+              41.404987923832124
             ],
-            [-92.91750617790967,
-              41.401808195743236
+            [-92.92541563510895,
+              41.40508650196952
             ],
-            [-92.91762821841985,
-              41.401808195743236
-            ],
-            [-92.91762821841985,
-              41.40170458287791
-            ],
-            [-92.91755848098546,
-              41.40170558882886
-            ],
-            [-92.91755982208997,
-              41.401693517416525
-            ],
-            [-92.91753165889531,
-              41.40169452336765
-            ],
-            [-92.91753165889531,
-              41.401617065086285
-            ],
-            [-92.91683026123792,
-              41.40161404722929
-            ],
-            [-92.91682087350637,
-              41.401620082943126
-            ],
-            [-92.91670687962323,
-              41.401619076990855
-            ],
-            [-92.91670822072774,
-              41.40160096984739
-            ],
-            [-92.91667737532407,
-              41.40160096984739
-            ],
-            [-92.91667201090604,
-              41.40172973164682
-            ],
-            [-92.91672163177282,
-              41.40172872569626
-            ],
-            [-92.91672029066831,
-              41.401844409909636
-            ],
-            [-92.91673370171338,
-              41.40184340396083
-            ],
-            [-92.91673504281789,
-              41.40225885948795
-            ],
-            [-92.91688792873174,
-              41.40225785354557
+            [-92.92565703392029,
+              41.40531383465499
             ]
           ]
         ]
@@ -1795,7 +1747,7 @@
       "properties": {
         "id": "17",
         "name": "Geisler Library",
-        "description": "Geisler library hosts nearly a quarter of a million resources including books, magazines, newspapers, music, reference periodicals, microfilm, historical information and art. The third floor holds the archives, computer room and over 30 study rooms. The Café at Geisler on the first floor of the library is an additional option for students using their meal plan.",
+        "description": "Geisler library hosts nearly a quarter of a million resources including books, magazines, newspapers, music, reference periodicals, microfilm, historical information and art. The Global Café at Geisler on the first floor of the library is an additional option for students using their meal plan. The second floor is home to Academic Support and offices for Career Services, Community-Based Learning and Study Abroad. The third floor holds the archives, computer room and over 30 study rooms.",
         "photo": "geisler.jpg",
         "Lat": 41.401481,
         "Lng": -92.922019,
@@ -2253,7 +2205,7 @@
       "properties": {
         "id": "22",
         "name": "Hoffman Hall",
-        "description": "Hoffman Hall is home to career services.",
+        "description": "Hoffman is an all-men's residence hall featuring loftable furniture and individually climate-controlled rooms. The lower level houses exercise equipment, a lounge area and laundry facilities.",
         "photo": "hoffman.jpg",
         "Lat": 41.402389,
         "Lng": -92.921097,
@@ -2811,7 +2763,7 @@
       "properties": {
         "id": "31",
         "name": "Maytag Student Center",
-        "description": "Maytag Student Center is a gathering place for students. Grab a meal from Fred’s, check your mailbox, work out, view films in van Emmerik Theatre and find Central gear at the Spirit Shoppe. ",
+        "description": "Maytag Student Center is a gathering place for students. Grab a meal from Fred’s, check your mailbox, work out, view films in Van Emmerik Studio and find Central gear at the Spirit Shoppe. ",
         "photo": "maytag.jpg",
         "Lat": 41.401672,
         "Lng": -92.918944,
@@ -5662,52 +5614,6 @@
       "type": "Feature",
       "properties": {
         "id": "57",
-        "name": "Warehouse",
-        "description": "",
-        "photo": "",
-        "Lat": 41.4050965609,
-        "Lng": -92.9256570339,
-        "buildingCenterLatLng": "41.4050965609, -92.9256570339"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-92.92565703392029,
-              41.40531383465499
-            ],
-            [-92.92593866586685,
-              41.405144844061994
-            ],
-            [-92.92588233947752,
-              41.40509052556376
-            ],
-            [-92.92595207691193,
-              41.40505230140816
-            ],
-            [-92.92575359344482,
-              41.404855144880074
-            ],
-            [-92.92556315660477,
-              41.40496780582652
-            ],
-            [-92.9255872964859,
-              41.404987923832124
-            ],
-            [-92.92541563510895,
-              41.40508650196952
-            ],
-            [-92.92565703392029,
-              41.40531383465499
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "58",
         "name": "Weller Center",
         "description": "The Weller Center for Business and International Studies houses Central’s anthropology, business, foreign language, sociology and international studies faculty.",
         "photo": "weller.jpg",
@@ -5795,7 +5701,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "59",
+        "id": "58",
         "name": "Wing International Center",
         "description": "The Wing International Center offers a unique opportunity for students to use foreign languages on a daily basis — and earn .5 semester credit hours.",
         "photo": "spanishhouse.jpg",
